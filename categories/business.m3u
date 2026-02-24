@@ -120,7 +120,7 @@ https://hls.newworldtv.com/nw-economie/video/live.m3u8
 #EXTINF:-1 tvg-id="RealVision.us@SD" tvg-logo="https://i.imgur.com/8t56RoQ.png" group-title="Business",Real Vision
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-vision-1/master.m3u8?ads.vf=EXpPh_OXLJK
 #EXTINF:-1 tvg-id="TDAmeritradeNetwork.us@SD" tvg-logo="https://i.imgur.com/RbVdkJ5.png" group-title="Business",TD Ameritrade Network (1080p)
-https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl@SD" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl@SD" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
